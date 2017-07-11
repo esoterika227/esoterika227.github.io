@@ -62,6 +62,8 @@
 }
 
 #boaz-column, #jachin-column {
+   text-align: center;
+   
    @include media($small) {
       visibility: hidden;
       height: 0px;
