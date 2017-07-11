@@ -25,6 +25,13 @@ Bro. Dunning also provided our in-Lodge education. This was a
 facilitated contemplative exercise based on Masonic symbolism, and you
 really had to be there to understand how meaningful it was.
 
+If you'd like to learn more about Bro. Dunning and his work, check out
+the two part interview by some of our members on the podcast 
+[My Alchemical Bromance](https://www.myalchemicalbromance.com/).
+
+- [Part 1](https://www.myalchemicalbromance.com/podcast/episode-04-part-1-interview-chuck-dunning/)
+- [Part 2](https://www.myalchemicalbromance.com/podcast/episode-04-part-2-interview-with-chuck-dunning/)
+
 Thank you, Bro. Dunning!
 
 <figure>
