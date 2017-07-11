@@ -6,8 +6,8 @@
 - title: Trestleboard
   url: /trestleboard/
 
-- title: Articles
-  url: /articles/
+#- title: Articles
+#  url: /articles/
 
 - title: Officers
   url: /officers/
@@ -18,5 +18,5 @@
 - title: Links
   url: /links/
 
-- title: Search
-  url: /search/
+#- title: Search
+#  url: /search/
