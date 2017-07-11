@@ -31,11 +31,11 @@ The calendar for the coming year of Esoterika Lodge №227 is as follows:
  -  Wednesday, 18 January, 2017 -- Stated Meeting at 7:00pm
  -  Wednesday, 15 February, 2017 -- Stated Meeting at 7:00pm
  -  Saturday, 18 March, 2017 -- Scholarly Presentation & Refreshments at 5:30pm. Stated Meeting at 7:00pm
-    * Speaker: IWTU
+    * Speaker: C.R. Dunning on Contemplative Practice
  -  Wednesday, 19 April, 2017 -- Stated Meeting at 7:00pm
  -  Wednesday, 17 May, 2017 -- Stated Meeting at 7:00pm
  -  Wednesday, 14 June, 2017 -- Stated Meeting & Refreshments at 5:30pm. Stated Meeting at 7:00pm
-    * Speaker: IWTU
+    * Speaker: Grimoire Panel with Larry Roberts, Matt Turcotte, and Erik L. Arneson
  -  July/August 2017 -- DARK
  -  Saturday, 16 September, 2017 -- Scholarly Presentation & Refreshments at 5:30pm. Stated Meeting at 7:00pm
     * Speaker:TBA
@@ -45,6 +45,5 @@ The calendar for the coming year of Esoterika Lodge №227 is as follows:
     * Speaker:TBA
 
 Visitors are encouraged to RSVP via the aforementioned email or
-through our
-[Facebook page](https://www.facebook.com/esoterikalodge.oregon/). Masons
+through our [Facebook page](https://www.facebook.com/esoterikalodge.oregon/). Masons
 who intend to visit should bring proof of membership and a photo ID.
