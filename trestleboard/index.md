@@ -24,7 +24,11 @@ sharp.** We are often dark in July and August. Each meeting features a
 short educational lecture along with discussion on Masonic philosophy.
 
 After our meetings, we enjoy libations and fellowship in the the
-Portland Scottish Rite Center game room and lounge, featuring a donation bar and excellent antique pool tables. Prospective members and others in our community are encouraged to RSVP join us for these activities.
+Portland Scottish Rite Center game room and lounge, featuring a
+donation bar and excellent antique pool tables. Prospective members
+and others in our community are encouraged [to RSVP](/contact/) to join us for these activities.
+
+## 2017 Calendar of Events
 
 The calendar for the coming year of Esoterika Lodge №227 is as follows:
 
@@ -44,6 +48,7 @@ The calendar for the coming year of Esoterika Lodge №227 is as follows:
  -  Saturday, 16 December, 2017 -- Scholarly Presentation & Refreshments at 5:30pm. Stated Meeting at 7:00pm
     * Speaker:TBA
 
-Visitors are encouraged to RSVP via the aforementioned email or
-through our [Facebook page](https://www.facebook.com/esoterikalodge.oregon/). Masons
+Visitors are encouraged to RSVP through our
+[Facebook page](https://www.facebook.com/esoterikalodge.oregon/) or by
+emailing our Secretary at **esoterika227secretary@gmail.com**. Masons
 who intend to visit should bring proof of membership and a photo ID.
