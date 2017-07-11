@@ -1,16 +1,19 @@
 # Site navigation links
 
-- title: About
-  url: /about/
+- title: Home
+  url: /
+
+- title: Trestleboard
+  url: /trestleboard/
 
 - title: Articles
   url: /articles/
 
-- title: Blog
-  url: /blog/
+- title: Officers
+  url: /officers/
 
-- title: Theme Setup
-  url: /theme-setup/
+- title: Past Masters
+  url: /past-masters/
 
 - title: Search
   url: /search/
