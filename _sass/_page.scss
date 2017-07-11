@@ -40,11 +40,21 @@
 
 /* main page layout */
 .large-2 {
-   @include span-columns(2);
+   @include media($medium) {
+      @include span-columns(2);
+   }
 }
 
 .large-8 {
-   @include span-columns(8);
+   @include media($medium) {
+      @include span-columns(8);
+   }
+}
+
+.small-12 {
+   @include media($small) {
+      @include span-columns(12);
+   }
 }
 
 .row {
@@ -52,7 +62,11 @@
 }
 
 #boaz-column, #jachin-column {
-   visibility: hidden;
+   @include media($small) {
+      visibility: hidden;
+      height: 0px;
+      width: 0px;
+   }
    
    @include media($medium) {
       visibility: visible;
