@@ -6,7 +6,7 @@ excerpt: "Esoterika Lodge №227 AF&AM of Oregon"
 
 Esoterika Lodge №227, A.F.&amp;A.M. of Oregon is one of the newest Lodges in Oregon. We
 were granted a Dispensation in May of 2007 and Constituted in July
-of 2008. In May 2007, we
+of 2008. In May 2017, we
 [celebrated our tenth anniversary](/articles/tenth-anniversary-table-lodge/). At
 a time when many lodges are consolidating and closing we are thriving!
 

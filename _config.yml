@@ -5,7 +5,8 @@ locale: en_US
 description: The premier lodge for Masonic education and ritual experience in Oregon.
 logo: site-logo.png
 search: true
-url: https://esoterika227.github.io
+#url: https://esoterika227.github.io
+url: http://esoterika227.com
 
 # Jekyll configuration
 
