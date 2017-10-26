@@ -42,7 +42,7 @@ The calendar for the coming year of Esoterika Lodge №227 is as follows:
     * Speaker: Grimoire Panel with Larry Roberts, Matt Turcotte, and Erik L. Arneson
  -  July/August 2017 -- DARK
  -  Saturday, 16 September, 2017 -- Scholarly Presentation & Refreshments at 5:30pm. Stated Meeting at 7:00pm
-    * Speaker: TBA
+    * Speaker: Adam Jogen Salzberg on the Zen Buddhist Chanting tradition
  -  Wednesday, 18 October, 2017 -- Stated Meeting at 7:00pm
  -  Wednesday, 15 November, 2017 -- Stated Meeting at 7:00pm
  -  Saturday, 16 December, 2017 -- Scholarly Presentation & Refreshments at 5:30pm. Stated Meeting at 7:00pm
