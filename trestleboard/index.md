@@ -46,7 +46,7 @@ The calendar for the coming year of Esoterika Lodge №227 is as follows:
  -  Wednesday, 18 October, 2017 -- Stated Meeting at 7:00pm
  -  Wednesday, 15 November, 2017 -- Stated Meeting at 7:00pm
  -  Saturday, 16 December, 2017 -- Scholarly Presentation & Refreshments at 5:30pm. Stated Meeting at 7:00pm
-    * Speaker: TBA
+    * Speaker: Ingrid Kincaid will present [a lecture on Yule](https://www.facebook.com/events/132330390800290/).
 
 Visitors are encouraged to RSVP through our
 [Facebook page](https://www.facebook.com/esoterikalodge.oregon/) or by
