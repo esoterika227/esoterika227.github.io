@@ -5,11 +5,11 @@ layout: page
 
 Esoterika Lodge №227 meets at
 
-> Portland Scottish Rite Center<br>
-> 709 SW 15th Avenue<br>
-> Portland OR 97212
+> Milwaukie Masonic Lodge<br>
+> 10636 SE Main Street<br>
+> Portland OR 97222
 
-We have an unusual calendar for our Stated meetings.
+We have a peculiar calendar for our Stated meetings.
 
 **In the months of the Solstices and Equinoxes (March, June,
 September, and December) we meet on the third Saturday of the month.**
@@ -19,34 +19,33 @@ good character. The suggested minimum donation for these events is $10
 per person. If you are interested in attending or presenting, please
 [contact us](/contact/).
 
-**On the remaining months we meet on the third Wednesday at 7:00pm
+**On the remaining months we meet on the 2nd Wednesday at 7:30pm
 sharp.** We are often dark in July and August. Each meeting features a
 short educational lecture along with discussion on Masonic philosophy.
 
-After our meetings, we enjoy libations and fellowship in the the
-Portland Scottish Rite Center game room and lounge, featuring a
-donation bar and excellent antique pool tables. Prospective members
+After our meetings, we enjoy libations and fellowship, featuring a
+donation bar and an excellent smörgåsbord of cosmic creature cacophony. Prospective members
 and others in our community are encouraged [to RSVP](/contact/) to join us for these activities.
 
-## 2017 Calendar of Events
+## 2018 Calendar of Events
 
 The calendar for the coming year of Esoterika Lodge №227 is as follows:
 
- -  Wednesday, 18 January, 2017 -- Stated Meeting at 7:00pm
- -  Wednesday, 15 February, 2017 -- Stated Meeting at 7:00pm
- -  Saturday, 18 March, 2017 -- Scholarly Presentation & Refreshments at 5:30pm. Stated Meeting at 7:00pm
-    * Speaker: C.R. Dunning on Contemplative Practice
- -  Wednesday, 19 April, 2017 -- Stated Meeting at 7:00pm
- -  Wednesday, 17 May, 2017 -- Stated Meeting at 7:00pm
- -  Wednesday, 14 June, 2017 -- Stated Meeting & Refreshments at 5:30pm. Stated Meeting at 7:00pm
-    * Speaker: Grimoire Panel with Larry Roberts, Matt Turcotte, and Erik L. Arneson
- -  July/August 2017 -- DARK
- -  Saturday, 16 September, 2017 -- Scholarly Presentation & Refreshments at 5:30pm. Stated Meeting at 7:00pm
-    * Speaker: Adam Jogen Salzberg on the Zen Buddhist Chanting tradition
- -  Wednesday, 18 October, 2017 -- Stated Meeting at 7:00pm
- -  Wednesday, 15 November, 2017 -- Stated Meeting at 7:00pm
- -  Saturday, 16 December, 2017 -- Scholarly Presentation & Refreshments at 5:30pm. Stated Meeting at 7:00pm
-    * Speaker: Ingrid Kincaid will present [a lecture on Yule](https://www.facebook.com/events/132330390800290/).
+ -  Wednesday, 10 January, 2018 -- Stated Meeting at 7:30pm
+ -  Wednesday, 14 February, 2018 -- Stated Meeting at 7:30pm
+ -  Saturday, 17 March, 2018 -- Scholarly Presentation & Refreshments at 5:30pm. Stated Meeting at 7:30pm
+    * Speaker:  TBA
+ -  Wednesday, 11 April, 2018 -- Stated Meeting at 7:30pm
+ -  Wednesday, 9 May, 2018 -- Stated Meeting at 7:30pm
+ -  Wednesday, 16 June, 2018 -- Stated Meeting & Refreshments at 5:30pm. Stated Meeting at 7:30pm
+    * Speaker:  TBA
+ -  July/August 2018 -- DARK
+ -  Saturday, 15 September, 2018 -- Scholarly Presentation & Refreshments at 5:30pm. Stated Meeting at 7:30pm
+    * Speaker:  TBA
+ -  Wednesday, 10 October, 2018 -- Stated Meeting at 7:30pm
+ -  Wednesday, 14 November, 2018 -- Stated Meeting at 7:30pm
+ -  Saturday, 15 December, 2018 -- Scholarly Presentation & Refreshments at 5:30pm. Stated Meeting at 7:00pm
+    * Speaker:  TBA
 
 Visitors are encouraged to RSVP through our
 [Facebook page](https://www.facebook.com/esoterikalodge.oregon/) or by
