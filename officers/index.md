@@ -11,25 +11,25 @@ each station or place. Thereby, we promote order and harmony in the
 lodge, and assure that we continue to accomplish our important
 mission.
 
-The 2016 Officers for Esoterika Lodge №227, A. F. & A. M. of Oregon are:
+The 2018 Officers for Esoterika Lodge №227, A. F. & A. M. of Oregon are:
 
 ## Elected Officers
 
-- Worshipful Master -- Nathan Neff
-- Senior Warden -- Matt Turcotte
-- Junior Warden -- Craig Wilcox
+- Worshipful Master -- Matt Turcotte
+- Senior Warden -- Craig Wilcox
+- Junior Warden -- Peter Grover
 - Treasurer -- Steve Gatton, PM
 - Secretary -- Tom Binkerd, PM
 
 ## Appointed Officers
--    Senior Deacon -- Peter Grover
--    Junior Deacon -- Christopher Ritzau
--    Senior Steward -- Joey Harrison
--    Junior Steward -- William Will
--    Tyler -- Dan Gray, PM
--    Chaplain -- David Heifetz, PM
--    Historian -- Michael Robinson, PM
--    Marshall -- Bill Erickson, PM
+-    Senior Deacon -- Christopher Ritzau
+-    Junior Deacon -- Joey Harrison
+-    Senior Steward -- William Will
+-    Junior Steward -- Jameson Shaw
+-    Tyler -- Andrew R.
+-    Chaplain -- Erik Arneson, PM
+-    Historian -- David H., PM
+-    Marshall -- TBA
 
 ## Trustees
 -    David Heifetz, PM
