@@ -7,7 +7,7 @@ Join the community of Esoterika members, supporters, and speakers via
 our [Facebook](https://www.facebook.com/esoterikalodge.oregon) page
 where you can RSVP for quarterly talks and receive event updates.
 
-Our New Location: [Milwaukie Masonic Lodge #109 (http://www.milwaukielodge.org/)
+Our New Location: [Milwaukie Masonic Lodge #109](http://www.milwaukielodge.org/)
 
 The Most Worshipful [Grand Lodge of Oregon](http://www.masonic-oregon.com/) A. F. & A. M., under whose jurisdiction we are duly constituted.
 
