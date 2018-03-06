@@ -29,24 +29,24 @@ and others in our community are encouraged [to RSVP](/contact/) to join us for t
 
 ## 2018 Calendar of Events
 
-*Please note that during 2018, our calendar might change quite a bit as we settle into our new home.*
+*Please note that during 2018, our calendar might change as we settle into our new home.*
 
 The calendar for the coming year of Esoterika Lodge №227 is as follows:
 
  -  Wednesday, 10 January 2018 -- Stated Meeting at 7:30pm
  -  Wednesday, 14 February 2018 -- Stated Meeting at 7:30pm
- -  Saturday, 17 March 2018 -- Scholarly Presentation & Refreshments at 5:30pm. Stated Meeting at 7:30pm
-    * Speaker:  TBA
+ -  Saturday, 17 March 2018 -- Scholarly Presentation & Refreshments at 5:00pm. Stated Meeting at 7:00pm
+    * Peter Grover and James Calver, "The Birth of the Collective Unconscious"
  -  Wednesday, 11 April 2018 -- Stated Meeting at 7:30pm
  -  Wednesday, 9 May 2018 -- Stated Meeting at 7:30pm
- -  Wednesday, 16 June 2018 -- Stated Meeting & Refreshments at 5:30pm. Stated Meeting at 7:30pm
+ -  Wednesday, 16 June 2018 -- Stated Meeting & Refreshments at 5:00pm. Stated Meeting at 7:00pm
     * Speaker:  TBA
  -  July/August 2018 -- DARK
- -  Saturday, 15 September 2018 -- Scholarly Presentation & Refreshments at 5:30pm. Stated Meeting at 7:30pm
+ -  Saturday, 15 September 2018 -- Scholarly Presentation & Refreshments at 5:00pm. Stated Meeting at 7:00pm
     * Speaker:  TBA
  -  Wednesday, 10 October 2018 -- Stated Meeting at 7:30pm
  -  Wednesday, 14 November 2018 -- Stated Meeting at 7:30pm
- -  Saturday, 15 December 2018 -- Scholarly Presentation & Refreshments at 5:30pm. Stated Meeting at 7:00pm
+ -  Saturday, 15 December 2018 -- Scholarly Presentation & Refreshments at 5:00pm. Stated Meeting at 7:00pm
     * Speaker:  TBA
 
 Visitors are encouraged to RSVP through our
