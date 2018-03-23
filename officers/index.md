@@ -23,9 +23,9 @@ The 2018 Officers for Esoterika Lodge №227, A. F. & A. M. of Oregon are:
 
 ## Appointed Officers
 -    Senior Deacon -- Christopher Ritzau
--    Junior Deacon -- Joey Harrison
+-    Junior Deacon -- [Joey Harrison](JosephHarrison.wav)
 -    Senior Steward -- William Will
--    Junior Steward -- Jameson Shaw
+-    Junior Steward -- D. James Calver
 -    Tyler -- Andrew R.
 -    Chaplain -- Erik Arneson, PM
 -    Historian -- David H., PM
