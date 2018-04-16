@@ -36,18 +36,18 @@ The calendar for the coming year of Esoterika Lodge №227 is as follows:
  -  Wednesday, 10 January 2018 -- Stated Meeting at 7:30pm
  -  Wednesday, 14 February 2018 -- Stated Meeting at 7:30pm
  -  Saturday, 17 March 2018 -- Scholarly Presentation & Refreshments at 5:00pm. Stated Meeting at 7:00pm
-    * Peter Grover and James Calver, "The Birth of the Collective Unconscious"
+    * Speakers: Peter Grover and James Calver, "The Birth of the Collective Unconscious"
  -  Wednesday, 11 April 2018 -- Stated Meeting at 7:30pm
  -  Wednesday, 9 May 2018 -- Stated Meeting at 7:30pm
  -  Wednesday, 16 June 2018 -- Stated Meeting & Refreshments at 5:00pm. Stated Meeting at 7:00pm
-    * Speaker:  TBA
+    * Speaker: Ted Balestreri, "Introduction to Kabbala"
  -  July/August 2018 -- DARK
  -  Saturday, 15 September 2018 -- Scholarly Presentation & Refreshments at 5:00pm. Stated Meeting at 7:00pm
-    * Speaker:  TBA
+    * Speaker:  Chris Murphy, Masonic Tavern Culture in the 1700s
  -  Wednesday, 10 October 2018 -- Stated Meeting at 7:30pm
  -  Wednesday, 14 November 2018 -- Stated Meeting at 7:30pm
  -  Saturday, 15 December 2018 -- Scholarly Presentation & Refreshments at 5:00pm. Stated Meeting at 7:00pm
-    * Speaker:  TBA
+    * Speaker:  Marc Demarest, on New Thought and the Occult Roots of Business Management
 
 Visitors are encouraged to RSVP through our
 [Facebook page](https://www.facebook.com/esoterikalodge.oregon/) or by
