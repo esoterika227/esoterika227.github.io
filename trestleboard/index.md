@@ -39,7 +39,7 @@ The calendar for the coming year of Esoterika Lodge №227 is as follows:
     * Speakers: Peter Grover and James Calver, "The Birth of the Collective Unconscious"
  -  Wednesday, 11 April 2018 -- Stated Meeting at 7:30pm
  -  Wednesday, 9 May 2018 -- Stated Meeting at 7:30pm
- -  Saturday, 16 June 2018 -- Stated Meeting & Refreshments at 5:00pm. Stated Meeting at 7:00pm
+ -  Saturday, 16 June 2018 -- Scholarly Presentation & Refreshments at 5:00pm. Stated Meeting at 7:00pm
     * Speaker: Ted Balestreri, "Introduction to Kabbala"
  -  July/August 2018 -- DARK
  -  Saturday, 15 September 2018 -- Scholarly Presentation & Refreshments at 5:00pm. Stated Meeting at 7:00pm
