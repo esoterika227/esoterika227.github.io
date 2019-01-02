@@ -27,37 +27,33 @@ After our meetings, we enjoy libations and fellowship, featuring a
 donation bar and an excellent smörgåsbord of cosmic creature cacophony. Prospective members
 and others in our community are encouraged [to RSVP](/contact/) to join us for these activities.
 
-## 2018 Calendar of Events
-
-*Please note that during 2018, our calendar might change as we settle into our new home.*
+## 2019 Calendar of Events
 
 The calendar for the coming year of Esoterika Lodge №227 is as follows:
 
- -  Wednesday, 10 January 2018 -- Stated Meeting at 7:30pm
- -  Wednesday, 14 February 2018 -- Stated Meeting at 7:30pm
- -  Saturday, 17 March 2018 -- Scholarly Presentation & Refreshments at 5:00pm. Stated Meeting at 7:00pm
-    * Speakers: Peter Grover and James Calver, "The Birth of the Collective Unconscious"
- -  Wednesday, 11 April 2018 -- Stated Meeting at 7:30pm
- -  Wednesday, 9 May 2018 -- Stated Meeting at 7:30pm
- -  Saturday, 16 June 2018 -- Scholarly Presentation & Refreshments at 5:00pm. Stated Meeting at 7:00pm
-    * Speaker: Ted Balestreri, "Introduction to Kabbala"
- -  July/August 2018 -- DARK
- -  Saturday, 15 September 2018 -- Scholarly Presentation & Refreshments at 5:00pm. Stated Meeting at 7:00pm
-    * Speaker:  Chris Murphy, Masonic Tavern Culture in the 1700s
- -  Wednesday, 10 October 2018 -- Stated Meeting at 7:30pm
- -  Wednesday, 14 November 2018 -- Stated Meeting at 7:30pm
- -  Saturday, 15 December 2018 -- Scholarly Presentation & Refreshments at 5:00pm. Stated Meeting at 7:00pm
-    * Speaker:  Marc Demarest, on New Thought and the Occult Roots of Business Management
+ -  Wednesday, 9 January 2019 -- Stated Meeting at 7:30pm
+ -  Wednesday, 13 February 2019 -- Stated Meeting at 7:30pm
+ -  Saturday, 16 March 2019 -- Scholarly Presentation & Refreshments at 5:00pm. Stated Meeting at 7:00pm
+    * Speakers: TBA
+ -  Wednesday, 10 April 2019 -- Stated Meeting at 7:30pm
+ -  Wednesday, 8 May 2019 -- Stated Meeting at 7:30pm
+ -  Saturday, 15 June 2019 -- Scholarly Presentation & Refreshments at 5:00pm. Stated Meeting at 7:00pm
+    * Speaker: TBA
+ -  July/August 2019 -- DARK
+ -  Saturday, 21 September 2019 -- Scholarly Presentation & Refreshments at 5:00pm. Stated Meeting at 7:00pm
+    * Speaker: TBA
+ -  Wednesday, 9 October 2019 -- Stated Meeting at 7:30pm
+ -  Wednesday, 13 November 2019 -- Stated Meeting at 7:30pm
+ -  Saturday, 21 December 2019 -- Scholarly Presentation & Refreshments at 5:00pm. Stated Meeting at 7:00pm
+    * Speaker: TBA
 
-Visitors are encouraged to RSVP through our
-[Facebook page](https://www.facebook.com/esoterikalodge.oregon/) or by
-emailing our Secretary at **esoterika227secretary@gmail.com**. Masons
-who intend to visit should bring proof of membership and a photo ID.
+Visitors are encouraged to RSVP through our [Facebook page](https://www.facebook.com/esoterikalodge.oregon/) or by emailing our Secretary at **esoterika227secretary@gmail.com**. Masons who intend to visit should bring proof of membership and a photo ID.
 
 ## Past Years
 
 View our previous calendars here.
 
+ - [2018](2018/)
  - [2017](2017/)
  - [2016](2016/)
  - [2015](2015/)
