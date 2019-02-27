@@ -34,7 +34,7 @@ The calendar for the coming year of Esoterika Lodge №227 is as follows:
  -  Wednesday, 9 January 2019 -- Stated Meeting at 7:30pm
  -  Wednesday, 13 February 2019 -- Stated Meeting at 7:30pm
  -  Saturday, 16 March 2019 -- Scholarly Presentation & Refreshments at 5:00pm. Stated Meeting at 7:00pm
-    * Speakers: TBA
+    * Speaker: [Courtney Weber](http://www.courtneyaweber.com), "Deadly Mothers and Nurturing Warriors: Goddesses of the Irish Celts"
  -  Wednesday, 10 April 2019 -- Stated Meeting at 7:30pm
  -  Wednesday, 8 May 2019 -- Stated Meeting at 7:30pm
  -  Saturday, 15 June 2019 -- Scholarly Presentation & Refreshments at 5:00pm. Stated Meeting at 7:00pm
