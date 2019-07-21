@@ -38,7 +38,7 @@ The calendar for the coming year of Esoterika Lodge №227 is as follows:
  -  Wednesday, 10 April 2019 -- Stated Meeting at 7:30pm
  -  Wednesday, 8 May 2019 -- Stated Meeting at 7:30pm
  -  Saturday, 15 June 2019 -- Scholarly Presentation & Refreshments at 5:00pm. Stated Meeting at 7:00pm
-    * Speaker: TBA
+    * Speaker: Jedediah French, ["Antediluvian Knowledge and the Myth of the Watchers"](/assets/documents/2019-June-Quarterly-Flyer.pdf)
  -  July/August 2019 -- DARK
  -  Saturday, 21 September 2019 -- Scholarly Presentation & Refreshments at 5:00pm. Stated Meeting at 7:00pm
     * Speaker: TBA
