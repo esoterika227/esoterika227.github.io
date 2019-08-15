@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "2019 Fall Quarterly Lecture: Dr. Judy Sugg, 'Wisdom from the Ancient Sanskrit Texts of Yoga Sutras'"
-excerpt: "We look forward to hosting Dr. Judy Sugg as our lecturer at the 2019 Fall Equinox quarterly."
+title: "2019 Fall Quarterly Lecture: Dr. Judith Sugg, 'Wisdom from the Ancient Sanskrit Text of Yoga Sutras'"
+excerpt: "We look forward to hosting Dr. Judith Sugg as our lecturer at the 2019 Fall Equinox quarterly."
 categories: articles
 tags: [freemasonry, quarterly lecture series]
 comments: true
@@ -35,5 +35,5 @@ Refreshment provided
 Judith Sugg, Ph.D. is a teacher and writer who is intrigued with the power and clarity of the ancient texts and the light which they bring to our present moment. She has written on mindfulness and conflict resolution, the overlap of psychology and yoga, and has recently finished a study guide on the Yoga Sutras. Sugg, a licensed counselor, has worked with clients with addictions and has written two books in her field. She has taught yoga and meditation for 28 years.
 
 <figure>
-  <img src="/images/2019-Judy-Sugg.jpg" alt="Dr. Judy Sugg">
+  <img src="/images/2019-Judy-Sugg.jpg" alt="Dr. Judith Sugg">
 </figure>
