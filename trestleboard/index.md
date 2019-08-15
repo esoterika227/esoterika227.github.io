@@ -41,7 +41,9 @@ The calendar for the coming year of Esoterika Lodge №227 is as follows:
     * Speaker: Jedediah French, ["Antediluvian Knowledge and the Myth of the Watchers"](/assets/documents/2019-June-Quarterly-Flyer.pdf)
  -  July/August 2019 -- DARK
  -  Saturday, 21 September 2019 -- Scholarly Presentation & Refreshments at 5:00pm. Stated Meeting at 7:00pm
-    * Speaker: TBA
+    * Speaker: Judy Sugg,
+      ["Wisdom from the Ancient Sanskrit Texts of Yoga Sutras"](/articles/fall-quarterly-judy-sugg/)
+      [(Flyer)](/assets/documents/2019-Fall-Quarterly-Flyer.pdf)
  -  Wednesday, 9 October 2019 -- Stated Meeting at 7:30pm
  -  Wednesday, 13 November 2019 -- Stated Meeting at 7:30pm
  -  Saturday, 21 December 2019 -- Scholarly Presentation & Refreshments at 5:00pm. Stated Meeting at 7:00pm
