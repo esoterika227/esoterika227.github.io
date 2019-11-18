@@ -47,7 +47,9 @@ The calendar for the coming year of Esoterika Lodge №227 is as follows:
  -  Wednesday, 9 October 2019 -- Stated Meeting at 7:30pm
  -  Wednesday, 13 November 2019 -- Stated Meeting at 7:30pm
  -  Saturday, 21 December 2019 -- Scholarly Presentation & Refreshments at 5:00pm. Stated Meeting at 7:00pm
-    * Speaker: TBA
+    * Speaker: Adam Bayer,
+      ["Decoding Alphonse Mucha’s Symbolist Masterpiece"](/articles/winter-quarterly-adam-bayer)
+      [(Flyer)](/assets/documents/2019-Winter-Quarterly-Flyer.pdf)
 
 Visitors are encouraged to RSVP through our [Facebook page](https://www.facebook.com/esoterikalodge.oregon/) or by emailing our Secretary at **esoterika227secretary@gmail.com**. Masons who intend to visit should bring proof of membership and a photo ID.
 
