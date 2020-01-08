@@ -27,29 +27,25 @@ After our meetings, we enjoy libations and fellowship, featuring a
 donation bar and an excellent smörgåsbord of cosmic creature cacophony. Prospective members
 and others in our community are encouraged [to RSVP](/contact/) to join us for these activities.
 
-## 2019 Calendar of Events
+## 2020 Calendar of Events
 
 The calendar for the coming year of Esoterika Lodge №227 is as follows:
 
- -  Wednesday, 9 January 2019 -- Stated Meeting at 7:30pm
- -  Wednesday, 13 February 2019 -- Stated Meeting at 7:30pm
- -  Saturday, 16 March 2019 -- Scholarly Presentation & Refreshments at 5:00pm. Stated Meeting at 7:00pm
-    * Speaker: [Courtney Weber](http://www.courtneyaweber.com), "Deadly Mothers and Nurturing Warriors: Goddesses of the Irish Celts"
- -  Wednesday, 10 April 2019 -- Stated Meeting at 7:30pm
- -  Wednesday, 8 May 2019 -- Stated Meeting at 7:30pm
- -  Saturday, 15 June 2019 -- Scholarly Presentation & Refreshments at 5:00pm. Stated Meeting at 7:00pm
-    * Speaker: Jedediah French, ["Antediluvian Knowledge and the Myth of the Watchers"](/assets/documents/2019-June-Quarterly-Flyer.pdf)
- -  July/August 2019 -- DARK
- -  Saturday, 21 September 2019 -- Scholarly Presentation & Refreshments at 5:00pm. Stated Meeting at 7:00pm
-    * Speaker: Dr. Judith Sugg,
-      ["Wisdom from the Ancient Sanskrit Text of Yoga Sutras"](/articles/fall-quarterly-judy-sugg/)
-      [(Flyer)](/assets/documents/2019-Fall-Quarterly-Flyer.pdf)
- -  Wednesday, 9 October 2019 -- Stated Meeting at 7:30pm
- -  Wednesday, 13 November 2019 -- Stated Meeting at 7:30pm
- -  Saturday, 21 December 2019 -- Scholarly Presentation & Refreshments at 5:00pm. Stated Meeting at 7:00pm
-    * Speaker: Adam Bayer,
-      ["Decoding Alphonse Mucha’s Symbolist Masterpiece"](/articles/winter-quarterly-adam-bayer)
-      [(Flyer)](/assets/documents/2019-Winter-Quarterly-Flyer.pdf)
+ -  Wednesday, 8 January 2020 -- Stated Meeting at 7:30pm
+ -  Wednesday, 12 February 2020 -- Stated Meeting at 7:30pm
+ -  Saturday, 21 March 2020 -- Scholarly Presentation & Refreshments at 5:00pm. Stated Meeting at 7:00pm
+    * Speaker TBA
+ -  Wednesday, 8 April 2020 -- Stated Meeting at 7:30pm
+ -  Wednesday, 13 May 2020 -- Stated Meeting at 7:30pm
+ -  Saturday, 20 June 2020 -- Scholarly Presentation & Refreshments at 5:00pm. Stated Meeting at 7:00pm
+    * Speaker TBA
+ -  July/August 2020 -- DARK
+ -  Saturday, 19 September 2020 -- Scholarly Presentation & Refreshments at 5:00pm. Stated Meeting at 7:00pm
+    * Speaker TBA
+ -  Wednesday, 14 October 2020 -- Stated Meeting at 7:30pm
+ -  Wednesday, 11 November 2020 -- Stated Meeting at 7:30pm
+ -  Saturday, 19 December 2020 -- Scholarly Presentation & Refreshments at 5:00pm. Stated Meeting at 7:00pm
+    * Speaker TBA
 
 Visitors are encouraged to RSVP through our [Facebook page](https://www.facebook.com/esoterikalodge.oregon/) or by emailing our Secretary at **esoterika227secretary@gmail.com**. Masons who intend to visit should bring proof of membership and a photo ID.
 
@@ -57,6 +53,7 @@ Visitors are encouraged to RSVP through our [Facebook page](https://www.facebook
 
 View our previous calendars here.
 
+ - [2019](2019/)
  - [2018](2018/)
  - [2017](2017/)
  - [2016](2016/)
