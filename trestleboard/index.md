@@ -33,9 +33,8 @@ The calendar for the coming year of Esoterika Lodge №227 is as follows:
 
  -  Wednesday, 8 January 2020 -- Stated Meeting at 7:30pm
  -  Wednesday, 12 February 2020 -- Stated Meeting at 7:30pm
- -  Saturday, 21 March 2020 -- Scholarly Presentation & Refreshments at 5:00pm. Stated Meeting at 7:00pm
-    * Speaker TBA
- -  Wednesday, 8 April 2020 -- Stated Meeting at 7:30pm
+ -  Saturday, 21 March 2020 -- **CANCELLED BY ORDER OF THE GRAND MASTER**
+ -  Wednesday, 8 April 2020 -- **CANCELLED BY ORDER OF THE GRAND MASTER**
  -  Wednesday, 13 May 2020 -- Stated Meeting at 7:30pm
  -  Saturday, 20 June 2020 -- Scholarly Presentation & Refreshments at 5:00pm. Stated Meeting at 7:00pm
     * Speaker TBA
