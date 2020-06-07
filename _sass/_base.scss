@@ -134,6 +134,18 @@ hr {
    Figures and Images
    ========================================================================== */
 
+article p img[src*="#left"] {
+    max-width: 50%;
+    float: left;
+    padding-right: 15px;
+}
+
+article p img[src*="#right"] {
+    max-width: 50%;
+    float: right;
+    padding-left: 15px;
+}
+
 figure {
   margin: 0;
   padding-top: 10px;
