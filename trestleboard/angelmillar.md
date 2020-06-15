@@ -35,5 +35,5 @@ Admission is free, but we ask for a $10 donation to help fund our ongoing quarte
 
 You may view this lecture online through one of these methods:
 
- - You can register for the Zoom live presentation.
+ - [You can register at this link for the Zoom live presentation.](https://us02web.zoom.us/meeting/register/tZcrdO-rqz8vGtXcBmMwhzaxxdPoq0adqvTh)
  - [Or view the livestream on our Facebook page.](https://facebook.com/esoterikalodge.oregon/)
