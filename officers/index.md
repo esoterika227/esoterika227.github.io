@@ -29,6 +29,6 @@ The 2019 Officers for Esoterika Lodge №227, A. F. & A. M. of Oregon are:
 -    Marshall -- Adam Bayer
 
 ## Trustees
--    David Heifetz, PM (not sure)
--    Richard Nowacki, PM (not sure)
--    Robert Fountain, PM (not sure)
+-    David Heifetz, PM
+-    Tom Binkerd
+-    Robert Fountain, PM
