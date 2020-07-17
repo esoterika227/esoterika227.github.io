@@ -11,7 +11,7 @@ each station or place. Thereby, we promote order and harmony in the
 lodge, and assure that we continue to accomplish our important
 mission.
 
-The 2019 Officers for Esoterika Lodge №227, A. F. & A. M. of Oregon are:
+The 2020 Officers for Esoterika Lodge №227, A. F. & A. M. of Oregon are:
 
 ## Elected Officers
 
@@ -26,7 +26,7 @@ The 2019 Officers for Esoterika Lodge №227, A. F. & A. M. of Oregon are:
 -    Junior Deacon -- Jason Conway
 -    Tyler -- Bill Erickson
 -    Chaplain -- Matthew Turcotte, PM
--    Marshall -- Adam Bayer
+-    Marshall -- Adam Bayer, PM
 
 ## Trustees
 -    David Heifetz, PM
