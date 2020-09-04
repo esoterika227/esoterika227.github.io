@@ -25,10 +25,10 @@ Saturday, September 19th, 2020
 
 ### Admission
 
-If you would like to view this lecture, we ask for a $10 donation to
-help fund our ongoing quarterly lecture series. To get access to the
-live Zoom meeting or donate to our series, please use the PayPal
-button below.
+If you would like to view this lecture, we ask for a $10 minimum
+donation to help fund our ongoing quarterly lecture series. To get
+access to the live Zoom meeting or donate to our series, please use
+the PayPal button below.
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick" />
