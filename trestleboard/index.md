@@ -42,7 +42,7 @@ The calendar for the coming year of Esoterika Lodge №227 is as follows:
  -  Saturday, 19 September 2020 -- Scholarly Presentation & Refreshments at 5:00pm. Stated Meeting at 7:00pm
     * [David Tate on the Historical Philosophies in American Medicine](2020-davidtate/)
       &mdash; Due to restrictions because of COVID-19, this will be an
-      online lecture. Please follow the link register for this online lecture.
+      online lecture. Please follow the link to register for this online lecture.
  -  Wednesday, 14 October 2020 -- Stated Meeting at 7:30pm
  -  Wednesday, 11 November 2020 -- Stated Meeting at 7:30pm
  -  Saturday, 19 December 2020 -- Scholarly Presentation & Refreshments at 5:00pm. Stated Meeting at 7:00pm
