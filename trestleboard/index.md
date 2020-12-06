@@ -39,14 +39,16 @@ The calendar for the coming year of Esoterika Lodge №227 is as follows:
  -  Saturday, 20 June 2020 -- Scholarly Presentation & Refreshments at 5:00pm. Stated Meeting at 7:00pm
     * [Angel Millar discusses his book, The Three Stages of Initiatic Spirituality: Craftsman, Warrior, Magician.](angelmillar/) Due to restrictions because of COVID-19, this will be an online lecture. Please follow the link above to register and get more information.
  -  July/August 2020 -- DARK
- -  Saturday, 19 September 2020 -- Scholarly Presentation & Refreshments at 5:00pm. Stated Meeting at 7:00pm
+ -  Saturday, 19 September 2020 -- Scholarly Presentation at 5:00pm. Stated Meeting at 7:00pm
     * [David Tate on the Historical Philosophies in American Medicine](2020-davidtate/)
       &mdash; Due to restrictions because of COVID-19, this will be an
       online lecture. Please follow the link to register for this online lecture.
  -  Wednesday, 14 October 2020 -- Stated Meeting at 7:30pm
  -  Wednesday, 11 November 2020 -- Stated Meeting at 7:30pm
- -  Saturday, 19 December 2020 -- Scholarly Presentation & Refreshments at 5:00pm. Stated Meeting at 7:00pm
-    * Speaker TBA
+ -  Saturday, 19 December 2020 -- Scholarly Presentation at 5:00pm. Stated Meeting at 7:00pm
+    * [Egyptian Origins of Washington, D.C.: African Gods in America's Capital by Earle Mitchell](2020-earlemitchell/)
+      &mdash; Due to restrictions because of COVID-19, this will be an
+      online lecture. Please follow the link to register for this online lecture.
 
 Visitors are encouraged to RSVP through our [Facebook page](https://www.facebook.com/esoterikalodge.oregon/) or by emailing our Secretary at **esoterika227secretary@gmail.com**. Masons who intend to visit should bring proof of membership and a photo ID.
 

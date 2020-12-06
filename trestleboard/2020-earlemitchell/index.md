@@ -46,7 +46,11 @@ donation to help fund our ongoing quarterly lecture series. To get
 access to the live Zoom meeting or donate to our series, please use
 the PayPal button below.
 
-*Under construction.*
+<form action="https://www.paypal.com/donate" method="post" target="_top">
+<input type="hidden" name="hosted_button_id" value="CXS8ALBF6EY66" />
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
+</form>
 
 If you would rather not support our educational efforts, you can still
 view the live stream for this event on
