@@ -15,20 +15,17 @@ The 2020 Officers for Esoterika Lodge №227, A. F. & A. M. of Oregon are:
 
 ## Elected Officers
 
-- Worshipful Master -- Peter Grover
-- Senior Warden -- Christopher Ritzau
-- Junior Warden -- Shaman Anderson
-- Treasurer -- Nathan Neff, PM
-- Secretary -- Erik Arneson, PM
+- Worshipful Master -- Shaman Anderson
+- Senior Warden -- Damon Scribner, PM
+- Junior Warden -- Duncan Calver
+- Treasurer -- Steven Gatton, PM
+- Secretary -- Peter Grover, PM
 
 ## Appointed Officers
--    Senior Deacon -- Damon Scribner
--    Junior Deacon -- Jason Conway
--    Tyler -- Bill Erickson
+-    Senior Deacon -- Thomas Binkerd, PM
+-    Junior Deacon -- Michael McGarry
+-    Senior Steward -- Jason Conway
+-    Junior Steward -- Jameson Shaw
+-    Tyler -- Richard Nowacki, PM
 -    Chaplain -- Matthew Turcotte, PM
 -    Marshall -- Adam Bayer, PM
-
-## Trustees
--    David Heifetz, PM
--    Tom Binkerd, PM
--    Robert Fountain, PM
