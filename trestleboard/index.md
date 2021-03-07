@@ -34,7 +34,7 @@ The calendar for the coming year of Esoterika Lodge №227 is as follows:
  -  Wednesday, 13 January 2020 -- Stated Meeting at 7:30pm
  -  Wednesday, 10 February 2020 -- Stated Meeting at 7:30pm
  -  Saturday, 20 March 2020 -- Scholarly Presentation & Refreshments at 5:00pm. Stated Meeting at 7:00pm
-    * Topic TBA
+    * [Dr. Lahab Al-Samarrai on Jungian Advanced Motor Processing](2021-alsamarrai/)
  -  Wednesday, 14 April 2020 -- Stated Meeting at 7:30pm
  -  Wednesday, 12 May 2020 -- Stated Meeting at 7:30pm
  -  Saturday, 19 June 2020 -- Scholarly Presentation & Refreshments at 5:00pm. Stated Meeting at 7:00pm
