@@ -31,20 +31,20 @@ and others in our community are encouraged [to RSVP](/contact/) to join us for t
 
 The calendar for the coming year of Esoterika Lodge №227 is as follows:
 
- -  Wednesday, 13 January 2020 -- Stated Meeting at 7:30pm
- -  Wednesday, 10 February 2020 -- Stated Meeting at 7:30pm
- -  Saturday, 20 March 2020 -- Scholarly Presentation & Refreshments at 5:00pm. Stated Meeting at 7:00pm
+ -  Wednesday, 13 January 2021 -- Stated Meeting at 7:30pm
+ -  Wednesday, 10 February 2021 -- Stated Meeting at 7:30pm
+ -  Saturday, 20 March 2021 -- Scholarly Presentation & Refreshments at 5:00pm. Stated Meeting at 7:00pm
     * [Dr. Lahab Al-Samarrai on Jungian Advanced Motor Processing](2021-alsamarrai/)
- -  Wednesday, 14 April 2020 -- Stated Meeting at 7:30pm
- -  Wednesday, 12 May 2020 -- Stated Meeting at 7:30pm
- -  Saturday, 19 June 2020 -- Scholarly Presentation & Refreshments at 5:00pm. Stated Meeting at 7:00pm
+ -  Wednesday, 14 April 2021 -- Stated Meeting at 7:30pm
+ -  Wednesday, 12 May 2021 -- Stated Meeting at 7:30pm
+ -  Saturday, 19 June 2021 -- Scholarly Presentation & Refreshments at 5:00pm. Stated Meeting at 7:00pm
     * Topic TBA
- -  July/August 2020 -- DARK
- -  Saturday, 18 September 2020 -- Scholarly Presentation at 5:00pm. Stated Meeting at 7:00pm
+ -  July/August 2021 -- DARK
+ -  Saturday, 18 September 2021 -- Scholarly Presentation at 5:00pm. Stated Meeting at 7:00pm
     * Topic TBA
- -  Wednesday, 13 October 2020 -- Stated Meeting at 7:30pm
- -  Wednesday, 10 November 2020 -- Stated Meeting at 7:30pm
- -  Saturday, 19 December 2020 -- Scholarly Presentation at 5:00pm. Stated Meeting at 7:00pm
+ -  Wednesday, 13 October 2021 -- Stated Meeting at 7:30pm
+ -  Wednesday, 10 November 2021 -- Stated Meeting at 7:30pm
+ -  Saturday, 19 December 2021 -- Scholarly Presentation at 5:00pm. Stated Meeting at 7:00pm
     * Topic TBA
 
 Visitors are encouraged to RSVP through our [Facebook page](https://www.facebook.com/esoterikalodge.oregon/) or by emailing our Secretary at **esoterika227secretary@gmail.com**. Masons who intend to visit should bring proof of membership and a photo ID.
