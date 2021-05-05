@@ -38,14 +38,14 @@ The calendar for the coming year of Esoterika Lodge №227 is as follows:
  -  Wednesday, 14 April 2021 -- Stated Meeting at 7:30pm
  -  Wednesday, 12 May 2021 -- Stated Meeting at 7:30pm
  -  Saturday, 19 June 2021 -- Scholarly Presentation & Refreshments at 5:00pm. Stated Meeting at 7:00pm
-    * Miguel Connor, host of Aeon Byte Gnostic Radio podcast, on Pre-Nicene Christian Colts
+    * Willy Greer, author of *Shadow Play*, exploring representations of the shadow self
  -  July/August 2021 -- DARK
  -  Saturday, 18 September 2021 -- Scholarly Presentation at 5:00pm. Stated Meeting at 7:00pm
-    * Topic TBA
+    * Miguel Connor, host of Aeon Byte Gnostic Radio podcast, on Pre-Nicene Christian Colts
  -  Wednesday, 13 October 2021 -- Stated Meeting at 7:30pm
  -  Wednesday, 10 November 2021 -- Stated Meeting at 7:30pm
  -  Saturday, 19 December 2021 -- Scholarly Presentation at 5:00pm. Stated Meeting at 7:00pm
-    * Topic TBA
+    * Bro. Grant Moncrief on dreams, spiritual traditions, and the fascinating role of neurology
 
 Visitors are encouraged to RSVP through our [Facebook page](https://www.facebook.com/esoterikalodge.oregon/) or by emailing our Secretary at **esoterika227secretary@gmail.com**. Masons who intend to visit should bring proof of membership and a photo ID.
 
