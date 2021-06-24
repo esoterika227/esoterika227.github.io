@@ -41,7 +41,7 @@ The calendar for the coming year of Esoterika Lodge №227 is as follows:
     * Willy Greer, author of *Shadow Play*, exploring representations of the shadow self
  -  July/August 2021 -- DARK
  -  Saturday, 18 September 2021 -- Scholarly Presentation at 5:00pm. Stated Meeting at 7:00pm
-    * Miguel Connor, host of Aeon Byte Gnostic Radio podcast, on Pre-Nicene Christian Colts
+    * Miguel Connor, host of Aeon Byte Gnostic Radio podcast, on Pre-Nicene Christian Cults
  -  Wednesday, 13 October 2021 -- Stated Meeting at 7:30pm
  -  Wednesday, 10 November 2021 -- Stated Meeting at 7:30pm
  -  Saturday, 19 December 2021 -- Scholarly Presentation at 5:00pm. Stated Meeting at 7:00pm
