@@ -45,7 +45,9 @@ The calendar for the coming year of Esoterika Lodge №227 is as follows:
  -  Wednesday, 13 October 2021 -- Stated Meeting at 7:30pm
  -  Wednesday, 10 November 2021 -- Stated Meeting at 7:30pm
  -  Saturday, 18 December 2021 -- Scholarly Presentation at 5:00pm. Stated Meeting at 7:00pm
-    * Bro. Grant Moncrief, Sacred Sleep & Divine Dreams; from Myth to Modern Medicine and Beyond
+    * Bro. Grant Moncrief on dreams, spiritual traditions, and the
+      fascinating role of neurology.
+      [Visit the Facebook event](https://fb.me/e/2f2o4mvb2) or [purchase a ticket at Eventbrite](https://www.eventbrite.com/e/223035203297)!
 
 Visitors are encouraged to RSVP through our [Facebook page](https://www.facebook.com/esoterikalodge.oregon/) or by emailing our Secretary at **esoterika227secretary@gmail.com**. Masons who intend to visit should bring proof of membership and a photo ID.
 
