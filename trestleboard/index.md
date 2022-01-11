@@ -27,27 +27,21 @@ After our meetings, we enjoy libations and fellowship, featuring a
 donation bar and an excellent smörgåsbord of cosmic creature cacophony. Prospective members
 and others in our community are encouraged [to RSVP](/contact/) to join us for these activities.
 
-## 2021 Calendar of Events
+## 2022 Calendar of Events
 
 The calendar for the coming year of Esoterika Lodge №227 is as follows:
 
- -  Wednesday, 13 January 2021 -- Stated Meeting at 7:30pm
- -  Wednesday, 10 February 2021 -- Stated Meeting at 7:30pm
- -  Saturday, 20 March 2021 -- Scholarly Presentation & Refreshments at 5:00pm. Stated Meeting at 7:00pm
-    * [Dr. Lahab Al-Samarrai on Jungian Advanced Motor Processing](2021-alsamarrai/)
- -  Wednesday, 14 April 2021 -- Stated Meeting at 7:30pm
- -  Wednesday, 12 May 2021 -- Stated Meeting at 7:30pm
- -  Saturday, 19 June 2021 -- Scholarly Presentation & Refreshments at 5:00pm. Stated Meeting at 7:00pm
-    * Willy Greer, author of *Shadow Play*, exploring representations of the shadow self
- -  July/August 2021 -- DARK
- -  Saturday, 18 September 2021 -- Scholarly Presentation at 5:00pm. Stated Meeting at 7:00pm
-    * Miguel Connor, host of Aeon Byte Gnostic Radio podcast, on Pre-Nicene Christian Cults
- -  Wednesday, 13 October 2021 -- Stated Meeting at 7:30pm
- -  Wednesday, 10 November 2021 -- Stated Meeting at 7:30pm
- -  Saturday, 18 December 2021 -- Scholarly Presentation at 5:00pm. Stated Meeting at 7:00pm
-    * Bro. Grant Moncrief on dreams, spiritual traditions, and the
-      fascinating role of neurology.
-      [Visit the Facebook event](https://fb.me/e/2f2o4mvb2) or [purchase a ticket at Eventbrite](https://www.eventbrite.com/e/223035203297)!
+ -  Wednesday, 13 January 2022 -- Stated Meeting at 7:30pm
+ -  Wednesday, 9 February 2022 -- Stated Meeting at 7:30pm
+ -  Saturday, 19 March 2022 -- Scholarly presentation at 5:00pm. Stated Meeting at 7:00pm. Details TBA.
+ -  Wednesday, 13 April 2022 -- Stated Meeting at 7:30pm.
+ -  Wednesday, 11 May 2022 -- Stated Meeting at 7:30pm.
+ -  Saturday, 18 June 2022 -- Scholarly Presentation & Refreshments at 5:00pm. Stated Meeting at 7:00pm. Details TBA.
+ -  July/August 2022 -- DARK
+ -  Saturday, 17 September 2022 -- Scholarly Presentation at 5:00pm. Stated Meeting at 7:00pm. Details TBA.
+ -  Wednesday, 12 October 2022 -- Stated Meeting at 7:30pm
+ -  Wednesday, 9 November 2022 -- Stated Meeting at 7:30pm
+ -  Saturday, 17. December 2022 -- Scholarly Presentation at 5:00pm. Stated Meeting at 7:00pm. Details TBA.
 
 Visitors are encouraged to RSVP through our [Facebook page](https://www.facebook.com/esoterikalodge.oregon/) or by emailing our Secretary at **esoterika227secretary@gmail.com**. Masons who intend to visit should bring proof of membership and a photo ID.
 
@@ -55,6 +49,7 @@ Visitors are encouraged to RSVP through our [Facebook page](https://www.facebook
 
 View our previous calendars here.
 
+ - [2021](2021/)
  - [2020](2020/)
  - [2019](2019/)
  - [2018](2018/)
