@@ -33,7 +33,8 @@ The calendar for the coming year of Esoterika Lodge №227 is as follows:
 
  -  Wednesday, 13 January 2022 -- Stated Meeting at 7:30pm
  -  Wednesday, 9 February 2022 -- Stated Meeting at 7:30pm
- -  Saturday, 19 March 2022 -- Scholarly presentation at 5:00pm. Stated Meeting at 7:00pm. Details TBA.
+ -  Saturday, 19 March 2022 -- Scholarly presentation at 5:00pm. Stated Meeting at 7:00pm.
+    * Speaker: Michael Sanborn, ["French Illuminism: A Modern Approach"](/assets/documents/2022-Spring-Quarterly-Flyer.pdf)
  -  Wednesday, 13 April 2022 -- Stated Meeting at 7:30pm.
  -  Wednesday, 11 May 2022 -- Stated Meeting at 7:30pm.
  -  Saturday, 18 June 2022 -- Scholarly Presentation & Refreshments at 5:00pm. Stated Meeting at 7:00pm. Details TBA.
