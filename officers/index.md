@@ -11,21 +11,21 @@ each station or place. Thereby, we promote order and harmony in the
 lodge, and assure that we continue to accomplish our important
 mission.
 
-The 2022 Officers for Esoterika Lodge №227, A. F. & A. M. of Oregon are:
+The 2023 Officers for Esoterika Lodge №227, A. F. & A. M. of Oregon are:
 
 ## Elected Officers
 
-- Worshipful Master -- Damon Scribner, PM
-- Senior Warden -- Duncan Calver
-- Junior Warden -- Thomas Binkerd, PM
-- Treasurer -- Steven Gatton, PM
-- Secretary -- Peter Grover, PM
+- Worshipful Master --  Duncan Calver
+- Senior Warden --  Tom Binkerd, PM
+- Junior Warden --  Michael Hicks
+- Treasurer --  Steve Gatton, PM
+- Secretary --  Damon Scribner, PM
 
 ## Appointed Officers
--    Senior Deacon -- Matthew Turcotte, PM
--    Junior Deacon -- Mike Hicks
--    Senior Steward -- Jason Conway
--    Junior Steward -- Adam Bayer, PM
--    Tyler -- Richard Nowacki, PM
--    Chaplain -- Sean McCallum, PM
--    Marshall -- Shaman Anderson, PM
+- Senior Deacon --  Michael Bowers, PM
+- Junior Deacon --  Jason Conway
+- Marshall --  Adam Bayer, PM
+- Chaplain --  Ryan Neal, PM
+- Tyler --  Peter Gover, PM
+- Senior Steward --  George Sorenson
+- Junior Steward --  Ed Wang
