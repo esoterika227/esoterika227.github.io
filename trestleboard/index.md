@@ -27,22 +27,21 @@ After our meetings, we enjoy libations and fellowship, featuring a
 donation bar and an excellent smörgåsbord of cosmic creature cacophony. Prospective members
 and others in our community are encouraged [to RSVP](/contact/) to join us for these activities.
 
-## 2022 Calendar of Events
+## 2023 Calendar of Events
 
 The calendar for the coming year of Esoterika Lodge №227 is as follows:
 
- -  Wednesday, 13 January 2022 -- Stated Meeting at 7:30pm
- -  Wednesday, 9 February 2022 -- Stated Meeting at 7:30pm
- -  Saturday, 19 March 2022 -- Scholarly presentation at 5:00pm. Stated Meeting at 7:00pm.
-    * Speaker: Michael Sanborn, ["French Illuminism: A Modern Approach"](/assets/documents/2022-Spring-Quarterly-Flyer.pdf)
- -  Wednesday, 13 April 2022 -- Stated Meeting at 7:30pm.
- -  Wednesday, 11 May 2022 -- Stated Meeting at 7:30pm.
- -  Saturday, 18 June 2022 -- Scholarly Presentation & Refreshments at 5:00pm. Stated Meeting at 7:00pm. Details TBA.
- -  July/August 2022 -- DARK
- -  Saturday, 17 September 2022 -- Scholarly Presentation at 5:00pm. Stated Meeting at 7:00pm. Details TBA.
- -  Wednesday, 12 October 2022 -- Stated Meeting at 7:30pm
- -  Wednesday, 9 November 2022 -- Stated Meeting at 7:30pm
- -  Saturday, 17. December 2022 -- Scholarly Presentation at 5:00pm. Stated Meeting at 7:00pm. Details TBA.
+ -  Wednesday, 11 January 2023 -- Stated Meeting at 7:30pm
+ -  Wednesday, 8 February 2023 -- Stated Meeting at 7:30pm
+ -  Saturday, 18 March 2023 -- Scholarly presentation at 5:00pm. Stated Meeting at 7:00pm.
+ -  Wednesday, 12 April 2023 -- Stated Meeting at 7:30pm.
+ -  Wednesday, 10 May 2023 -- Stated Meeting at 7:30pm.
+ -  Saturday, 17 June 2023 -- Scholarly Presentation & Refreshments at 5:00pm. Stated Meeting at 7:00pm. Details TBA.
+ -  July/August 2023 -- DARK
+ -  Saturday, 16 September 2023 -- Scholarly Presentation at 5:00pm. Stated Meeting at 7:00pm. Details TBA.
+ -  Wednesday, 11 October 2023 -- Stated Meeting at 7:30pm
+ -  Wednesday, 8 November 2023 -- Stated Meeting at 7:30pm
+ -  Saturday, 16. December 2023 -- Scholarly Presentation at 5:00pm. Stated Meeting at 7:00pm. Details TBA.
 
 Visitors are encouraged to RSVP through our [Facebook page](https://www.facebook.com/esoterikalodge.oregon/) or by emailing our Secretary at **esoterika227secretary@gmail.com**. Masons who intend to visit should bring proof of membership and a photo ID.
 
@@ -50,6 +49,7 @@ Visitors are encouraged to RSVP through our [Facebook page](https://www.facebook
 
 View our previous calendars here.
 
+ - [2022] pending
  - [2021](2021/)
  - [2020](2020/)
  - [2019](2019/)
