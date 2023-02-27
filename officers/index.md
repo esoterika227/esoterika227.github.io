@@ -27,5 +27,5 @@ The 2023 Officers for Esoterika Lodge №227, A. F. & A. M. of Oregon are:
 - Marshall --  Adam Bayer, PM
 - Chaplain --  Ryan Neal, PM
 - Tyler --  Peter Gover, PM
-- Senior Steward --  George Sorenson
+- Senior Steward --  George Sorensen
 - Junior Steward --  Ed Wang
