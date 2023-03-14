@@ -33,7 +33,7 @@ The calendar for the coming year of Esoterika Lodge №227 is as follows:
 
  -  Wednesday, 11 January 2023 -- Stated Meeting at 7:30pm
  -  Wednesday, 8 February 2023 -- Stated Meeting at 7:30pm
- -  Saturday, 18 March 2023 -- Scholarly presentation at 5:00pm. Stated Meeting at 7:00pm. Featured presentation: "An Introduction To The Rosicrucian Order, AMORC" by Anjala Ehelebe 
+ -  Saturday, 18 March 2023 -- Scholarly Presentation at 5:00pm. Stated Meeting at 7:00pm. Featured presentation: "An Introduction To The Rosicrucian Order, AMORC" by Anjala Ehelebe 
  -  Wednesday, 12 April 2023 -- Stated Meeting at 7:30pm.
  -  Wednesday, 10 May 2023 -- Stated Meeting at 7:30pm.
  -  Saturday, 17 June 2023 -- Scholarly Presentation & Refreshments at 5:00pm. Stated Meeting at 7:00pm. Featured presentation: "Breaking The Spell of Madness - Lessions From Scheherazade" by Will Hornyak, Esoteric Story Teller
