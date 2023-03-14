@@ -36,14 +36,14 @@ The calendar for the coming year of Esoterika Lodge №227 is as follows:
  -  Saturday, 18 March 2023 -- Scholarly Presentation at 5:00pm. Stated Meeting at 7:00pm. Featured presentation: "An Introduction To The Rosicrucian Order, AMORC" by Anjala Ehelebe 
  -  Wednesday, 12 April 2023 -- Stated Meeting at 7:30pm.
  -  Wednesday, 10 May 2023 -- Stated Meeting at 7:30pm.
- -  Saturday, 17 June 2023 -- Scholarly Presentation & Refreshments at 5:00pm. Stated Meeting at 7:00pm. Featured presentation: "Breaking The Spell of Madness - Lessions From Scheherazade" by Will Hornyak, Esoteric Story Teller
+ -  Saturday, 17 June 2023 -- Scholarly Presentation & Refreshments at 5:00pm. Stated Meeting at 7:00pm. Featured presentation: "Breaking The Spell of Madness - Lessons From Scheherazade" by Will Hornyak, Esoteric Story Teller
  -  July/August 2023 -- DARK
  -  Saturday, 16 September 2023 -- Scholarly Presentation at 5:00pm. Stated Meeting at 7:00pm. Details TBA.
  -  Wednesday, 11 October 2023 -- Stated Meeting at 7:30pm
  -  Wednesday, 8 November 2023 -- Stated Meeting at 7:30pm
  -  Saturday, 16 December 2023 -- Scholarly Presentation at 5:00pm. Stated Meeting at 7:00pm. Details TBA.
 
-Visitors are encouraged to RSVP through our [Facebook page](https://www.facebook.com/esoterikalodge.oregon/) or by emailing our Secretary at **esoterika227secretary@gmail.com**. Masons who plan to attend our Stated Meeting should bring proof of membership and a photo ID.
+Visitors are encouraged to RSVP through our [Facebook page](https://www.facebook.com/esoterikalodge.oregon/) or by emailing our Secretary at **esoterika227secretary@gmail.com**. Visiting Masons who plan to attend our Stated Meeting should bring proof of membership and a photo ID.
 
 ## Past Years
 
