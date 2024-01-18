@@ -38,10 +38,10 @@ The calendar for the coming year of Esoterika Lodge №227 is as follows:
  -  Wednesday, 10th May 2023 -- Stated Meeting at 7:30pm.
  -  Saturday, 17th June 2023 -- Scholarly Presentation & Refreshments at 5:00pm. Stated Meeting at 7:00pm. Featured presentation: "Breaking The Spell of Madness - Lessons From Scheherazade" by Will Hornyak, Esoteric Story Teller [Read the flyer!](/assets/documents/2023-Summer-Will-Hornyak.pdf)
  -  July/August 2023 -- DARK
- -  Saturday, 16th September 2023 -- Scholarly Presentation at 5:00pm. Stated Meeting at 7:00pm. Featured presentation: "Addressing the Problem of Evil" by Karl Starkweather.
+ -  Saturday, 16th September 2023 -- Scholarly Presentation at 5:00pm. Stated Meeting at 7:00pm. Featured presentation: "Addressing the Problem of Evil" by Karl Starkweather.[Read the flyer!](/assets/documents/September_Quarterly_23.pdf)
  -  Wednesday, 11th October 2023 -- Stated Meeting at 7:30pm
  -  Wednesday, 8th November 2023 -- Stated Meeting at 7:30pm
- -  Saturday, 16th December 2023 -- Scholarly Presentation at 5:00pm. Stated Meeting at 7:00pm. "Occult Philosophy and the Birth of Freemasonry" by Worshipful Brother Erik Arneson.
+ -  Saturday, 16th December 2023 -- Scholarly Presentation at 5:00pm. Stated Meeting at 7:00pm. "Occult Philosophy and the Birth of Freemasonry" by Worshipful Brother Erik Arneson.[Read the flyer!](/assets/documents/2023-Winter-WB-Arnesen.pdf)
 
 Visitors are encouraged to RSVP through our [Facebook page](https://www.facebook.com/esoterikalodge.oregon/) or by emailing our Secretary at **esoterika227secretary@gmail.com**. Visiting Masons who plan to attend our Stated Meeting should bring proof of membership and a photo ID.
 
