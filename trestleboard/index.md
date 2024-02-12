@@ -27,7 +27,7 @@ After our meetings, we enjoy libations and fellowship, featuring a
 donation bar and an excellent smörgåsbord of cosmic creature cacophony. Prospective members
 and others in our community are encouraged [to RSVP](/contact/) to join us for these activities.
 
-## 2023 Calendar of Events
+## 2024 Calendar of Events
 
 The calendar for the coming year of Esoterika Lodge №227 is as follows:
 
