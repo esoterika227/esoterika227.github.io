@@ -28,4 +28,4 @@ Officers of Esoterika Lodge №227, A. F. & A. M. of Oregon for 2023-2024:
 - Chaplain --  Giacomo Adragna
 - Tyler --  WB Peter Grover
 - Senior Steward --  Mason Miles
-- Junior Steward --  
+- Junior Steward --  The Phoenician
