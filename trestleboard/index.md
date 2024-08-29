@@ -31,17 +31,20 @@ and others in our community are encouraged [to RSVP](/contact/) to join us for t
 
 The calendar for the coming year of Esoterika Lodge №227 is as follows:
 
- -  Wednesday, 10th January 2024 -- Stated Meeting at 7:30pm
- -  Wednesday, 14th February 2024 -- Stated Meeting at 7:30pm
- -  Saturday, 16th March 2024 -- Scholarly Presentation at 5:00pm. Stated Meeting at 7:00pm. Details TBA.
- -  Wednesday, 10th April 2024 -- Stated Meeting at 7:30pm.
- -  Wednesday, 8th May 2024 -- Stated Meeting at 7:30pm.
- -  Saturday, 15th June 2024 -- Scholarly Presentation at 5:00pm. Stated Meeting at 7:00pm. Details TBA.
- -  July/August 2024 -- DARK
- -  Saturday, 21st September 2024 -- Scholarly Presentation at 5:00pm. Stated Meeting at 7:00pm. Details TBA.
- -  Wednesday, 9th October 2024 -- Stated Meeting at 7:30pm
- -  Wednesday, 13th November 2024 -- Stated Meeting at 7:30pm
- -  Saturday, 21st December 2024 -- Scholarly Presentation at 5:00pm. Stated Meeting at 7:00pm. Details TBA.
+-  Wednesday, 10th January 2024 -- Stated Meeting at 7:30pm
+-  Wednesday, 14th February 2024 -- Stated Meeting at 7:30pm
+-  Saturday, 16th March 2024 -- Scholarly Presentation at 5:00pm. Stated Meeting at 7:00pm.
+   * Speaker: Ted Balestreri, PM, ["Esoteric Christianity: A look into the secrets of Christian Rites"](/images/flyers/EL227_QL_0324.jpg)
+-  Wednesday, 10th April 2024 -- Stated Meeting at 7:30pm.
+-  Wednesday, 8th May 2024 -- Stated Meeting at 7:30pm.
+-  Saturday, 15th June 2024 -- Scholarly Presentation at 5:00pm. Stated Meeting at 7:00pm. Details TBA.
+   * Speaker: Daniel Hrinko, PM, ["The Craft Driven Lodge: Principles for Development and Operation"](/images/flyers/EL227_QL_0624.jpg)
+-  July/August 2024 -- DARK
+-  Saturday, 21st September 2024 -- Scholarly Presentation at 5:00pm. Stated Meeting at 7:00pm.
+   * Speaker: Dorje Kirsten, ["Astrology, Living Theurgy"](/images/flyers/EL227_QL_0924.jpg)
+-  Wednesday, 9th October 2024 -- Stated Meeting at 7:30pm
+-  Wednesday, 13th November 2024 -- Stated Meeting at 7:30pm
+-  Saturday, 21st December 2024 -- Scholarly Presentation at 5:00pm. Stated Meeting at 7:00pm. Details TBA.
 
 Visitors are encouraged to RSVP through our [Facebook page](https://www.facebook.com/esoterikalodge.oregon/) or by emailing our Secretary at **esoterika227secretary@gmail.com**. Visiting Masons who plan to attend our Stated Meeting should bring proof of membership and a photo ID.
 
