@@ -11,21 +11,23 @@ each Station or place. Thereby, we promote order and harmony in the
 Lodge, and assure that we continue to accomplish our important
 mission.
 
-Officers of Esoterika Lodge №227, A. F. & A. M. of Oregon for 2023-2024:
+Officers of Esoterika Lodge №227, A. F. & A. M. of Oregon for 2024-2025:
 
 ## Elected Officers
 
-- Worshipful Master --  WB Tom Binkerd
-- Senior Warden --  WB Michael Bowers
-- Junior Warden --  WB Duncan Calver
+- Worshipful Master --  WB Michael Bowers
+- Senior Warden --  WB Shaman Anderson
+- Junior Warden --  Edwin Wang
 - Treasurer --  WB Steven Gatton
-- Secretary --  WB Shaman Anderson
+- Secretary --  Christopher Lachman
 
 ## Appointed Officers
-- Senior Deacon --  George Sorensen
-- Junior Deacon --  Edwin Wang
-- Marshall --  RWB Adam Bayer
-- Chaplain --  Giacomo Adragna
-- Tyler --  WB Peter Grover
-- Senior Steward --  Mason Miles
-- Junior Steward --  Chris Lachman
+- Senior Deacon --  Mason Miles
+- Junior Deacon --  WB Matt Turcotte
+- Marshall --  WB Tom Binkerd
+- Chaplain --  WB Duncan Calver
+- Tyler --  Rob Guthrie
+- Senior Steward --  WB Damon Scribner
+- Junior Steward -- Bryce Jackson
+- Historian -- WB Nathan Neff
+- Candidate Liason -- Shaman Anderson
