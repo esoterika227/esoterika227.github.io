@@ -37,7 +37,7 @@ The calendar for the coming year of Esoterika Lodge №227 is as follows:
    * Speaker: TBD
 -  Wednesday, 16th April 2025 -- Stated Meeting at 7:00pm.
 -  Wednesday, 21st May 2025 -- Stated Meeting at 7:00pm.
--  Saturday, 14th June 2025 -- Scholarly Presentation at 5:00pm. Stated Meeting at 7:00pm.
+-  Saturday, 21st June 2025 -- Scholarly Presentation at 5:00pm. Stated Meeting at 7:00pm.
    * Speaker: TBD
 -  July/August 2024 -- DARK
 -  Saturday, 20th September 2025 -- Scholarly Presentation at 5:00pm. Stated Meeting at 7:00pm.
