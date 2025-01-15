@@ -53,7 +53,7 @@ Visitors are encouraged to RSVP through our [Facebook page](https://www.facebook
 
 View our previous calendars here.
 
-{2024 Pending}
+ - [2024](2024/)
  - [2023](2023/)
  - [2022](2022/)
  - [2021](2021/)
