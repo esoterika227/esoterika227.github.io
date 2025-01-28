@@ -15,7 +15,7 @@ Mr. Heifetz is an Attorney and Business Consultant. He served Esoterika as Senio
 Mr. Wade is a 50 year Mason, one of the founding members of Esoterika Lodge, and served as the third Master for Esoterika's fourth year as a chartered Lodge. Mr. Wade has written extensively on Masonic topics and has held high ranks in various Masonic appendant bodies.
 
 ## Mr. Thomas Binkerd (2012)
-Mr. Binkerd is an operative craftsman by trade and in addition to 25 years as a master carpenter, has helped restore venerable Masonic edifices to their former glory. In addition to serving Esoterika Lodge as our fourth Master, he currently serves as the District Deputy of District 4 in the Grand Lodge of Oregon and as Secretary of Esoterika Lodge №227.
+Mr. Binkerd is an operative craftsman by trade and in addition to 25 years as a master carpenter, has helped restore venerable Masonic edifices to their former glory. In addition to serving Esoterika Lodge as our fourth Master, he has served as the District Deputy of District 4 in the Grand Lodge of Oregon and as Secretary of Esoterika Lodge №227.
 
 ## Mr. Michael D. Robinson (2013, 2014)
 Mr. Robinson is an Essene bishop emeritus and certified vertebrologist. He has a degree in History, and is an Author, Genealogist and Craftsman. He is the first Master Mason raised in Esoterika Lodge to serve as Worshipful Master.
@@ -28,3 +28,7 @@ Mr. Neff became a Master Mason at Washington Lodge №46 in Portland, Oregon, in
 
 ## Mr. Matthew Turcotte (2018)
 Mr. Turcotte became a Master Mason at Esoterika Lodge №227 when it was still in its original home in Beaverton, Oregon.
+
+## Dr. Duncan Calver (2023)
+
+In 2017, Duncan James Calver became a Master Mason at Esoterika Lodge №227. In 2018, he joined the Portland Valley Scottish Rite where he regularly performs a role in the 30°. In 2022, he affiliated with Solomon Lodge №271 in Springfield, Missouri. Dr. Calver enjoys memorizing Masonic ritual and has acted as memorization and ritual coach. Outside of Freemasonry, Dr. Calver is a private practice clinical psychologist and local performing musician. He and his wife are expecting their first child in April of 2025.
