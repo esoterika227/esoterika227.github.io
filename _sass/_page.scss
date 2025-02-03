@@ -63,13 +63,13 @@
 
 #boaz-column, #jachin-column {
    text-align: center;
-   
+
    @include media($small) {
       visibility: hidden;
       height: 0px;
       width: 0px;
    }
-   
+
    @include media($medium) {
       visibility: visible;
    }
@@ -188,6 +188,38 @@ span + .entry-title {
 		@include rounded(150px);
 		@include clearfix;
 	}
+}
+
+/* Past Master headshot (rounded) */
+.pm-headshot {
+  display: none;
+
+  @include media($small) {
+    display: block;
+    margin: 0 auto;
+    max-height: 250px;
+    width: auto;
+    clear: both; // prevents text wrap
+  }
+
+  @include media($medium) {
+    float: none;
+    display: block;
+    margin: 1em auto;
+    max-height: 250px;
+    width: auto;
+    clear: both;
+  }
+
+  @include media($large) {
+    display: block;
+    max-height: 250px;
+    float: right;
+    margin: {
+      top: 0px;
+      left: 1em;
+    }
+  }
 }
 
 

@@ -7,5 +7,6 @@ The honored title of Past Master is given to those Brothers who have served thei
 
 {% for item in site.bios %}
   <h2>{{ item.title }} ({{ item.years }})</h2>
+  {% if item.image %}<img src="{{ item.image }}" alt="{{ item.title }}" class="pm-headshot">{% endif %}
   {{ item.content }}
 {% endfor %}
