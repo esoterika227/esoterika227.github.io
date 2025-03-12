@@ -190,6 +190,18 @@ span + .entry-title {
 	}
 }
 
+/* Past Master navigation header */
+.pm-nav {
+  font-size: 0.9rem;
+  line-height: 1.2;
+  text-align: center;
+  
+  padding: {
+      left: 0.2em;
+      right: 0.2em;
+  }
+}
+
 /* Past Master block */
 .pm-block {
   height: auto;
