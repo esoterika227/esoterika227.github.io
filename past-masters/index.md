@@ -13,8 +13,8 @@ The honored title of Past Master is given to those Brothers who have served thei
 
 {% for item in site.bios %}
   <div class="pm-block">
-  <h2 id="{{ item.years }}">{{ item.title }} ({{ item.years }})</h2>
-  {% if item.image %}<img src="{{ item.image }}" alt="{{ item.title }}" class="pm-headshot">{% endif %}
-  {{ item.content }}
+    <h2 id="{{ item.years }}">{{ item.title }} ({{ item.years }})</h2>
+    {% if item.image %}<img src="{{ item.image }}" alt="{{ item.title }}" class="pm-headshot">{% endif %}
+    {{ item.content }}
   </div>
 {% endfor %}
