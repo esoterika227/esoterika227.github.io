@@ -31,21 +31,21 @@ and others in our community are encouraged [to RSVP](/contact/) to join us for t
 
 The calendar for the coming year of Esoterika Lodge №227 is as follows:
 
--  Wednesday, 15th January 2025 -- Stated Meeting at 7:00pm
--  Wednesday, 19th February 2025 -- Stated Meeting at 7:00pm
--  Saturday, 15th March 2025 -- Scholarly Presentation at 5:00pm. Stated Meeting at 7:00pm.
+-  Wednesday, 15th January 2025 --- Stated Meeting at 7:00pm
+-  Wednesday, 19th February 2025 --- Stated Meeting at 7:00pm
+-  Saturday, 15th March 2025 --- Scholarly Presentation at 5:00pm. Stated Meeting at 7:00pm.
    * Speaker: TBD
--  Wednesday, 16th April 2025 -- Stated Meeting at 7:00pm.
--  Wednesday, 21st May 2025 -- Stated Meeting at 7:00pm.
--  Saturday, 21st June 2025 -- Scholarly Presentation at 5:00pm. Stated Meeting at 7:00pm.
-   * Speaker: TBD
--  July/August 2025 -- DARK
--  Saturday, 20th September 2025 -- Scholarly Presentation at 5:00pm. Stated Meeting at 7:00pm.
-   * Speaker: TBD
--  Wednesday, 15th October 2025 -- Stated Meeting at 7:00pm
--  Wednesday, 19th November 2025 -- Stated Meeting at 7:00pm
--  Saturday, 20th December 2025 -- Scholarly Presentation at 5:00pm. Stated Meeting at 7:00pm.
-   * Speaker: TBD
+-  Wednesday, 16th April 2025 --- Stated Meeting at 7:00pm.
+-  Wednesday, 21st May 2025 --- Stated Meeting at 7:00pm.
+-  Saturday, 21st June 2025 --- Scholarly Presentation at 5:00pm. Stated Meeting at 7:00pm.
+   * Speaker: Mr. Ron Karsten from the Theosophical Society of Portland --- "Conscious Energetics"
+-  July/August 2025 --- DARK
+-  Saturday, 20th September 2025 --- Scholarly Presentation at 5:00pm. Stated Meeting at 7:00pm.
+   * Speaker: Bro. Jaime Lamb, author of *Myth, Magick, and Masonry* --- topic TBA
+-  Wednesday, 15th October 2025 --- Stated Meeting at 7:00pm
+-  Wednesday, 19th November 2025 --- Stated Meeting at 7:00pm
+-  Saturday, 20th December 2025 --- Scholarly Presentation at 5:00pm. Stated Meeting at 7:00pm.
+   * Speaker: Bro. Ted Balestreri --- topic TBA
 
 Visitors are encouraged to RSVP through our [Facebook page](https://www.facebook.com/esoterikalodge.oregon/) or by emailing our Secretary at **esoterika227secretary@gmail.com**. Visiting Masons who plan to attend our Stated Meeting should bring proof of membership and a photo ID.
 
