@@ -21,6 +21,20 @@ topics relevant to Freemasonry and esoteric studies. We have hosted a
 series of distinguished speakers, both guests and members of our
 lodge.
 
+## Our Latest Video
+
+We are proud to present quarterly lectures open to the public as our service to the fraternity and the community. Learn more about our next lecture by [checking our calendar](/trestleboard/).
+
+{% assign video_posts = site.categories.videos %}
+{% if video_posts.size > 0 %}
+  {% assign latest_video = video_posts | first %}
+  <div class="latest-video">
+    {% include youtube.html id=latest_video.youtube_id %}
+    <p><em>{{ latest_video.excerpt }}</em></p>
+  </div>
+{% endif %}
+
+Explore all of our videos [on this website](/videos/) or on [our YouTube page](https://www.youtube.com/@Esoterika227).
 
 ## Strengthening Freemasonry in Oregon
 
