@@ -3,20 +3,20 @@
 - title: Home
   url: /
 
-- title: Trestleboard
+- title: Calendar
   url: /trestleboard/
 
 - title: Articles
   url: /articles/
+
+- title: Videos
+  url: /videos/
 
 - title: Officers
   url: /officers/
 
 - title: Past Masters
   url: /past-masters/
-
-- title: Links
-  url: /links/
 
 - title: Donations
   url: /payments/
