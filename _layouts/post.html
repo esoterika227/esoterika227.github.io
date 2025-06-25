@@ -43,6 +43,9 @@
       </footer>
       <div class="entry-content">
         {{ content }}
+        {% if page.youtube_id %}
+          {% include youtube.html id=page.youtube_id %}
+        {% endif %}
         {% if site.owner.disqus-shortname and page.comments or site.comments %}
           <div id="disqus_thread"></div><!-- /#disqus_thread -->
           {% include disqus-comments.html %}
