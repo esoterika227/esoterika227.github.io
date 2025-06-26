@@ -38,7 +38,7 @@ The calendar for the coming year of Esoterika Lodge №227 is as follows:
 -  Wednesday, 16th April 2025 --- Stated Meeting at 7:00pm.
 -  Wednesday, 21st May 2025 --- Stated Meeting at 7:00pm.
 -  Saturday, 21st June 2025 --- Scholarly Presentation at 5:00pm. Stated Meeting at 7:00pm.
-   * Speaker: Mr. Ron Karsten from the Theosophical Society of Portland --- "Conscious Energetics"
+   * Speaker: Mr. Ron Karsten from the Theosophical Society of Portland --- "Conscious Energetics" [(view the flyer)](/assets/documents/2025-June_Quarterly.pdf)
 -  July/August 2025 --- DARK
 -  Saturday, 20th September 2025 --- Scholarly Presentation at 5:00pm. Stated Meeting at 7:00pm.
    * Speaker: Bro. Jaime Lamb, author of *Myth, Magick, and Masonry* --- topic TBA
