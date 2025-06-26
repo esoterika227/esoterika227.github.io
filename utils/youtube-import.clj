@@ -41,7 +41,7 @@
 (defn format-jekyll-post [video]
   (let [youtube-id (extract-youtube-id (:url video))]
     (str "---\n"
-         "layout: video\n"
+         "layout: post\n"
          "title: \"" (:title video) "\"\n"
          "excerpt: \"" (-> (:description video)
                           (str/replace #"\n" " ")
@@ -78,12 +78,12 @@
       (do
         (println "Error: File" (:file opts) "does not exist")
         (System/exit 1))
-      
+
       (not (.canRead file))
       (do
         (println "Error: File" (:file opts) "is not readable")
         (System/exit 1))
-      
+
       :else
       (let [videos (read-videos (:file opts))]
         (create-blog-posts output-dir videos)

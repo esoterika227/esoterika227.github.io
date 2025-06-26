@@ -6,6 +6,7 @@ categories: videos
 tags: [lecture series, video]
 comments: true
 share: true
+youtube_id: FZ_W2QBqbhc
 ---
 
 Presented by WB David Tate
@@ -15,4 +16,3 @@ Tradition says that Plato inscribed the following above the door of his Academy 
 
 The goal...
 
-{% include youtube.html id="FZ_W2QBqbhc" %}

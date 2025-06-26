@@ -6,6 +6,7 @@ categories: videos
 tags: [lecture series, video]
 comments: true
 share: true
+youtube_id: UwGMEOxWxBo
 ---
 
 Presented by Karl Starkweather
@@ -13,4 +14,3 @@ September 16th, 2023
 
 Many New Age teachings have claimed that evil does not have a real presence on this planet, but this is contradicted by the overwhelming...
 
-{% include youtube.html id="UwGMEOxWxBo" %}
